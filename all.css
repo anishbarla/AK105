@@ -1,0 +1,249 @@
+.logo{
+  padding-top: 10px;
+}
+
+.slogan1{
+  text-align: center;
+  font-family: Cedarville Cursive;
+  font-size: 60px;
+  color: white;
+}
+
+.slogan2{
+  color: white;
+  text-align: center;
+  font-size: 30px
+}
+
+.domain{
+  display: block;
+  text-align: center;
+}
+
+.line1{
+  background-color: orangered;
+  height: 5px;
+}
+
+.navigation{
+    background-color: whitesmoke;
+    padding: 20px 20px;
+}
+
+.block{
+    background-image: linear-gradient(to right, orange, green);
+    display: block;
+}
+
+<!-- Dropdown menu1>
+
+.dropdown1{
+  display: inline-block;
+}
+
+.dropdown1 button{
+  background-color: lightgrey;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+.dropdown1:hover button{
+  background-color: gray;
+}
+
+<!-- Dropdown menu2>
+
+.dropdown2{
+    display: inline-block;
+}
+.dropdown2 button{
+  background-color: lightgrey;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+.dropdown2:hover button{
+  background-color: gray;
+}
+
+<!-- Dropdown menu3
+
+.dropdown3{
+  display: inline-block;
+}
+.dropdown3 button{
+background-color: lightgrey;
+color: black;
+padding: 10px 15px;
+border: none;
+cursor: pointer;
+font-family: sans-serif;
+font-size: 17px;
+}
+
+.dropdown3:hover button{
+background-color: gray;
+}
+
+.line2{
+  background-color: orangered;
+  height: 5px;
+}
+
+.presidency1{
+  font-size: 100px;
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
+  padding-top: 169px;
+  padding-bottom: 10px;
+}
+
+.presidency2{
+  font-size: 100px;
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
+  padding-bottom: 169px;
+  padding-top: 10px;
+}
+
+.line3{
+  background-color: orangered;
+  height: 5px;
+}
+
+.icons{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.icons a{
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.fa-brands.fa-x-twitter.fa-3x{
+  color: gray;
+}
+
+.fa-brands.fa-x-twitter.fa-3x:hover{
+  color: black;
+}
+
+.fa-brands.fa-facebook.fa-3x{
+  color: midnightblue;
+}
+
+.fa-brands.fa-facebook.fa-3x:hover{
+  color: blue;
+}
+
+.fa-brands.fa-youtube.fa-3x{
+  color: maroon;
+}
+
+.fa-brands.fa-youtube.fa-3x:hover{
+  color: red;
+}
+
+.policy .owned .rights-reserved .purpose .created{
+  text-align: center;
+}
+
+.about{
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: green;
+}
+
+.dotted1{
+  border-top: dotted 5px;
+  width: 50%;
+  color: orangered;
+  text-decoration: none;
+}
+
+.navbar ul{
+  list-style-type: none;
+  background-image: linear-gradient(to right, orange, green);
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.navbar a{
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+
+.navbar a:hover{
+  background-image: linear-gradient(to right, yellow, hsl(115, 66%, 35%)); 
+}
+
+.navbar li{
+  float: left;
+}
+
+.g20{
+  font-family: sans-serif;
+  font-size: 25px;
+  background-image: url('bg.jpg');
+  margin: 10px;
+  padding: 20px;
+}
+
+.dotted2{
+  border-top: dotted 5px;
+  width: 100%;
+  color: orangered;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.inception1{
+  display: inline-block;
+  font-size: 30px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.elevation1{
+  display: inline-block;
+  font-size: 30px;
+  padding-left: 10px;
+  text-align: right;
+}
+
+.gdp{
+  text-align: center
+}
+
+.flags{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
